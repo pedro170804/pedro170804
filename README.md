@@ -30,15 +30,6 @@ Estou cursando **Análise e Desenvolvimento de Sistemas** na Faculdade Anhanguer
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedro170804&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro170804&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
----
-
 ## 🌐 Portfólio & Contato
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://pedro170804.github.io/Apresentacao-sobre-mim)

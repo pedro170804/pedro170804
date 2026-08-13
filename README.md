@@ -1,18 +1,10 @@
 [README.md](https://github.com/user-attachments/files/27732764/README.md)
-Olá, eu sou Pedro Henrique Souza 👋
+Olá, eu sou Pedro Henrique Bispo de Souza 👋
 
 🎓 Formado em Análise e Desenvolvimento de Sistemas.
 
 Sou apaixonado por tecnologia e desenvolvimento de software, com conhecimentos em HTML, CSS, JavaScript, Python, SQL e Git/GitHub. Estou em busca de oportunidades na área de tecnologia para aplicar meus conhecimentos, adquirir experiência prática e contribuir para o desenvolvimento de soluções inovadoras.
 
-🚀 Tecnologias e Ferramentas
-HTML5
-CSS3
-JavaScript
-Python
-SQL / MySQL
-Git e GitHub
-VS Code
 
 📚 Atualmente
 Desenvolvendo projetos para aprimorar minhas habilidades técnicas.

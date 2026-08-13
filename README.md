@@ -1,20 +1,23 @@
 [README.md](https://github.com/user-attachments/files/27732764/README.md)
-# Olá, eu sou o Pedro Souza! 👋
+Olá, eu sou Pedro Henrique Souza 👋
 
-### Estudante de ADS | Desenvolvedor Front-End em formação | São Paulo, SP
+🎓 Formado em Análise e Desenvolvimento de Sistemas.
 
-Estou cursando **Análise e Desenvolvimento de Sistemas** na Faculdade Anhanguera (2024–2026) e buscando minha primeira oportunidade na área de TI. Apaixonado por tecnologia, resolução de problemas e aprendizado contínuo.
+Sou apaixonado por tecnologia e desenvolvimento de software, com conhecimentos em HTML, CSS, JavaScript, Python, SQL e Git/GitHub. Estou em busca de oportunidades na área de tecnologia para aplicar meus conhecimentos, adquirir experiência prática e contribuir para o desenvolvimento de soluções inovadoras.
 
----
+🚀 Tecnologias e Ferramentas
+HTML5
+CSS3
+JavaScript
+Python
+SQL / MySQL
+Git e GitHub
+VS Code
 
-## 🚀 Sobre mim
-
-- 🎓 Cursando **ADS** na Faculdade Anhanguera
-- 💻 Focado em **Front-End** e **Back-End**
-- 📍 São Paulo, SP
-- 📬 Aberto a oportunidades de **estágio e primeiro emprego em TI**
-- ⚡ Proativo, comunicativo e bom trabalho em equipe
-
+📚 Atualmente
+Desenvolvendo projetos para aprimorar minhas habilidades técnicas.
+Estudando novas tecnologias e boas práticas de desenvolvimento.
+Buscando oportunidades profissionais na área de Tecnologia da Informação.
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
